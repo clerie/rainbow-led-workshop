@@ -1,10 +1,20 @@
-# Lamp_Simple1Button
+# Rainbow LED Workshop
 
 Animated Rainbow LED Lamp w/ WS2812b LED stripes, Arduino and 1 Button.
 
 ![Rainbow Lamp](img/Rainbow_lamp.jpg)
 
 ![Rainbow Lamp video](img/lamp_action.mp4)
+
+## History
+
+This workshop has been held previously at:
+
+* EH19
+  * [Dein selbstgebauter animierter LED-Regenbogen](https://conference.c3w.at/eh19/talk/P7GMN9/)
+* GPN19
+  * [Dein eigener, selbst gelöteter LED-Regenbogen.](https://entropia.de/GPN19:Dein_eigener,_selbst_gel%C3%B6teter_LED-Regenbogen.)
+  * [Dein eigener, selbst gelöteter LED-Regenbogen -- Reloaded!](https://entropia.de/GPN19:Dein_eigener,_selbst_gel%C3%B6teter_LED-Regenbogen_--_Reloaded!)
 
 ## Parts
 
